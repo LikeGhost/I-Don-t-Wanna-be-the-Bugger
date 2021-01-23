@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="idon'twannabethebugger:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/idon_twannabethebugger_jar</output-path>
+    <root id="root">
+      <element id="archive" name="idon'twannabethebugger.jar">
+        <element id="module-output" name="idon'twannabethebugger" />
+      </element>
+    </root>
+  </artifact>
+</component>
